@@ -5,3 +5,6 @@ Untuk melakukan perhitungan jumlah pohon kepala sawit pada sebuah input image, l
 2. Jalankan "input_image_preparator.py" hingga muncul image baru dengan nama "input_ready.jpg"
 3. Jalankan "palm_oil_tree_detection.py"
 4. Selesai
+
+Created by Akbar Taufiqurrahman
+Source/tutorial, https://www.youtube.com/watch?v=_FNfRtXEbr4
