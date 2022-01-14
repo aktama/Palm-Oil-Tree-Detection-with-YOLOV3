@@ -7,4 +7,5 @@ Untuk melakukan perhitungan jumlah pohon kepala sawit pada sebuah input image, l
 4. Selesai
 
 Created by Akbar Taufiqurrahman
+
 Source/tutorial, https://www.youtube.com/watch?v=_FNfRtXEbr4
